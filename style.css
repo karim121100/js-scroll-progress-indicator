@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 5px;
+  background: #4caf50;
+  width: 0%;
+}
+
+.content {
+  padding: 20px;
+}
+
+.space {
+  height: 2000px;
+}
